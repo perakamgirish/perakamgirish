@@ -1,7 +1,7 @@
-## Hi there 👋 It's me Perkam Girish
-<h3 align="center">A passionate Web Developer from India</h3>
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://perakamgirish.github.io/)
 
-- I’m currently at Web Developer Intern @Trusty Bytes
+<h1 align="center">Hi 👋, I'm Perakam Girish </h1>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -30,6 +30,8 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 
 
-![perakamgirish GitHub stats](https://github-readme-stats.vercel.app/api?username=perakamgirish&theme=dark&show_icons=true&&hide=issues,contribs)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perakamgirish&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="perakamgirish" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perakamgirish&show_icons=true&locale=en&theme=tokyonight" alt="perakamgirish" /></p>
 
 [![perakamgirish github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=perakamgirish&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
