@@ -9,7 +9,7 @@
 
 <br /> [<img align="center" alt="perakamgirish" height="30" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/girish-perakam/)  <a href="https://instagram.com/perakamgirish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="perakamgirish" height="30" width="40" /></a>
 
-- Portfolio : <a href="https://girishperakam.site/" target="_blank" rel="noreferrer">
+- <a href="https://girishperakam.site/" target="_blank" rel="noreferrer">Portfolio</a>
  
 
 <h3 align="left">--Languages and Tools I Use:</h3>
